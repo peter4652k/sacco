@@ -417,7 +417,7 @@ def generate_loan_id():
 # =====================================================
 
 
-elif menu == "Add Loan":
+   elif menu == "Add Loan":
 
 
     st.header("Add Member Loan")
